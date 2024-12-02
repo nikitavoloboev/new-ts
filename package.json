@@ -6,10 +6,10 @@
     "ts": "bun --watch scripts/run.ts"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "^1.1.14"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.7.2"
   },
   "prettier": {
     "semi": false
